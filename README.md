@@ -10,5 +10,17 @@
 - Clone this repository
 
 ```shell
-
+git clone https://github.com/AISciencePlatform/aisp_isaac_sim_simulations.git
 ```
+
+- Unzip the file scenes/moonshot_replicator_lab.7z
+
+## Run the script using the Windows Powershell
+
+Assuming you installed Isaac Sim in `C:\Users\YOUR_USER\AppData\Local\ov\pkg\isaac_sim-2022.2.1` and that
+you are in the folder `aisp_isaac_sim_simulations`, run the script with following command:
+
+```shell
+C:\Users\YOUR_USER\AppData\Local\ov\pkg\isaac_sim-2022.2.1\python.bat .\moonshot_replicator_test.py
+```
+
