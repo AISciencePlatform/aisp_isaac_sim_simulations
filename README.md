@@ -13,7 +13,9 @@
 git clone https://github.com/AISciencePlatform/aisp_isaac_sim_simulations.git
 ```
 
-- Unzip the file scenes/moonshot_replicator_lab.7z
+- Unzip the file scenes/moonshot_replicator_lab.7z using the "extract here" option. The `moonshot_replicator_lab.usd` model must be inside the `scenes` folder.
+
+![tree](https://github.com/AISciencePlatform/aisp_isaac_sim_simulations/assets/23158313/5a3759df-60c3-4080-a6d4-8e33b6e37b86)
 
 ## Run the script using the Windows Powershell
 
